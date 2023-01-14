@@ -1,6 +1,4 @@
-### Alexander Potts
-
-<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" /></a>
+### Alexander Potts <a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" /></a>
 
 <a href="https://www.credly.com/badges/961758f9-2491-4b08-bc81-e8800baa2a64"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/azure-data-engineer-associate-600x600.png" width="75"></a><a href=https://www.credly.com/badges/0ee6d8d4-8dfa-4bd6-8d36-42e905f59a1d/public_url><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/power-platform-app-maker-600x600.png" width="75"></a>
 
