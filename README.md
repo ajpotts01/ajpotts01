@@ -1,6 +1,6 @@
 ### Alexander Potts
 
-<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" /></a>
+<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" /></a>
 
 Technologist, jazz guitar student, and combat sports tragic living in Sydney, Australia.
 Craft beer 🍺 nerd currently working for Endeavour Group - a dream to be working in this industry!
