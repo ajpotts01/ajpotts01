@@ -5,13 +5,13 @@ Technologist, jazz guitar student, and combat sports tragic living in Sydney, Au
 Craft beer 🍺 nerd currently working for Endeavour Group - a dream to be working in this industry!
 
 I was a software developer for 10+ years, but always did a bit of everything:
-- Desktop, mobile and web dev in numerous frameworks
+- Desktop, mobile and web dev in numerous frameworks and languages - but most at-home with C# and Python
 - "Old-school" business intelligence with the SQL Server Stack
 - Sometimes I even put my infrastructure and networking hat on
 
-I took a hard right turn into "modern" data engineering a few years ago, but the reality is I'm up for any technical challenge - especially when it's something my teams are struggling with and they need someone to figure new things out quickly.
+I took a hard right turn into "modern" data engineering a little while ago, and that is my "focus". In reality, I'm up for any technical challenge - especially when it's something my teams are struggling with and they need someone to figure new things out quickly.
 
-I was a Databricks consultant, but am most at home in BigQuery on the Google Cloud Platform.
+I was a Databricks consultant, but am most at home in the BigQuery ecosystem on the Google Cloud Platform.
 
 My repositories are usually things I'm building while I read books or do Udemy courses. Here is what I'm currently interested in:
 - Data engineering options on Google Cloud Platform and Microsoft Azure
