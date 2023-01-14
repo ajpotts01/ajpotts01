@@ -13,7 +13,9 @@ I took a hard right turn into "modern" data engineering a little while ago, and 
 
 I was a Databricks consultant, but am most at home in the BigQuery ecosystem on the Google Cloud Platform.
 
-My repositories are usually things I'm building while I read books or do Udemy courses. Here is what I'm currently interested in:
+My repositories are usually things I'm building while I read books or do Udemy courses, but I did do a good look into streaming data pipelines (and stringing together as many SaaS trials as possible) in a group project [here](https://github.com/ajpotts01/eventsim_streaming). 
+
+Here is what I'm currently interested in:
 - Data engineering options on Google Cloud Platform and Microsoft Azure
 - Getting back up to date with .NET, React and Angular
 - Full-stack web development options with Python (Django/Flask)
