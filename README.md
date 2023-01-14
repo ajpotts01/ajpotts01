@@ -1,16 +1,23 @@
-### Hi there 👋
+### Alexander Potts
+#### [LinkedIn Profile](https://www.linkedin.com/in/alexander-potts-9b4a41aa/)
 
-<!--
-**ajpotts01/ajpotts01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologist, jazz guitar student, and combat sports tragic living in Sydney, Australia.
+Craft beer 🍺 nerd currently working for Endeavour Group - a dream to be working in this industry!
 
-Here are some ideas to get you started:
+I was a software developer for 10+ years, but always did a bit of everything:
+- Desktop, mobile and web dev in numerous frameworks
+- "Old-school" business intelligence with the SQL Server Stack
+- Sometimes I even put my infrastructure and networking hat on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I took a hard right turn into "modern" data engineering a few years ago, but the reality is I'm up for any technical challenge - especially when it's something my teams are struggling with and they need someone to figure new things out quickly.
+
+I was a Databricks consultant, but am most at home in BigQuery on the Google Cloud Platform.
+
+My repositories are usually things I'm building while I read books or do Udemy courses. Here is what I'm currently interested in:
+- Data engineering options on Google Cloud Platform and Microsoft Azure
+- Getting back up to date with .NET, React and Angular
+- Full-stack web development options with Python (Django/Flask)
+- All the ops buzzwords - Data/ML/DevOps
+- Automation with UiPath and Power Automate
+- Low code app frameworks like Power Platform and Retool
+- Further developing my data analyst/scientist skillset
