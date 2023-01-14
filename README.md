@@ -1,6 +1,8 @@
 ### Alexander Potts
 
-<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" /></a><a href=https://www.credly.com/badges/0ee6d8d4-8dfa-4bd6-8d36-42e905f59a1d/public_url><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/power-platform-app-maker-600x600.png" width="25"></a>
+<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" /></a>
+
+<a href=https://www.credly.com/badges/0ee6d8d4-8dfa-4bd6-8d36-42e905f59a1d/public_url><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/power-platform-app-maker-600x600.png" width="75"></a>
 
 Technologist, jazz guitar student, and combat sports tragic living in Sydney, Australia.
 Craft beer 🍺 nerd currently working for Endeavour Group - a dream to be working in this industry!
