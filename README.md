@@ -12,7 +12,7 @@ I was a software developer for 10+ years, but always did a bit of everything:
 
 I took a hard right turn into "modern" data engineering a little while ago, and that is my "focus". In reality, I'm up for any technical challenge - especially when it's something my teams are struggling with and they need someone to figure new things out quickly.
 
-I was a Databricks consultant, but am most at home in the BigQuery ecosystem on the Google Cloud Platform.
+Even in data engineering I'm a generalist - I was a Databricks and Synapse consultant, but am most at home in the BigQuery ecosystem on the Google Cloud Platform.
 
 My repositories are usually things I'm building while I read books or do Udemy courses, but I did do a good look into streaming data pipelines (and stringing together as many SaaS trials as possible) in a group project [here](https://github.com/ajpotts01/eventsim_streaming). 
 
