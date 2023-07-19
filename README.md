@@ -22,4 +22,4 @@ Here is what I'm currently interested in:
 - Software engineering with Python, Go and Java
 - Automation with UiPath and Power Automate
 - Low code app frameworks like Power Platform and Retool
-- Further developing my data analyst/scientist skillset
+- Further developing my data analyst, data scientist, and cyber security skillsets
