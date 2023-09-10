@@ -21,5 +21,5 @@ Here is what I'm currently interested in:
 - All the ops buzzwords - Data/ML/DevOps
 - Software engineering with Python, Go, C# and JavaScript
 - Automation with UiPath and Power Automate
-- Low code app frameworks like Power Platform and Retool
+- Low code app frameworks like Power Platform, Retool and AppSheet
 - Further developing my data analyst, data scientist, and cyber security skillsets
