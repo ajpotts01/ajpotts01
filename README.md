@@ -19,7 +19,7 @@ My repositories are usually things I'm building while I read books or do Udemy c
 Here is what I'm currently interested in:
 - Data and machine learning engineering options on Google Cloud Platform
 - All the ops buzzwords - Data/ML/DevOps
-- Software engineering with Python, Go and Java
+- Software engineering with Python, Go, C# and JavaScript
 - Automation with UiPath and Power Automate
 - Low code app frameworks like Power Platform and Retool
 - Further developing my data analyst, data scientist, and cyber security skillsets
