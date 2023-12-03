@@ -20,7 +20,7 @@ Even in data engineering I'm a generalist - I was a Databricks and Synapse consu
 My repositories are usually things I'm building while I read books or do Udemy courses, but I did do a good look into streaming data pipelines (and stringing together as many SaaS trials as possible) in a group project [here](https://github.com/ajpotts01/eventsim_streaming). 
 
 Here is what I'm currently interested in:
-- Data and machine learning engineering options on Google Cloud Platform
+- Cloud and platform engineering options on Microsoft Azure and Google Cloud Platform
 - All the ops buzzwords - Data/ML/DevOps
 - Software engineering with Python, Go, C# and JavaScript
 - Automation with UiPath and Power Automate
