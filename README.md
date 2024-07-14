@@ -1,8 +1,12 @@
-### Alexander Potts <a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align: bottom"/></a>
+### Alexander Potts
+#### <a href="https://www.ajpcloudblog.com" target="_blank">https://www.ajpcloudblog.com</a>
+<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align: bottom;"></a><a href="https://www.twitter.com/ajpotts01"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" width="25" style="vertical-align: bottom"></a>
+
+
 
 <a href="https://google.accredible.com/5ec7018d-7f13-4afa-9de9-3efa72966a40?key=ba380dbda42d95129ba586866ceb82f9bb7d6213b858d350177cdb76a1ad371f"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/professional-data-engineer-certification.png" width="75"></a><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/professional-cloud-security-engineer-certification.png" width="75"></a><a href="https://www.credly.com/badges/961758f9-2491-4b08-bc81-e8800baa2a64"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/azure-data-engineer-associate-600x600.png" width="75"></a><a href=https://www.credly.com/badges/0ee6d8d4-8dfa-4bd6-8d36-42e905f59a1d/public_url><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/power-platform-app-maker-600x600.png" width="75"></a>
 
-Technologist, jazz guitar student, and combat sports tragic living in Sydney, Australia.
+Cloud technologist, jazz guitar student, and combat sports tragic living in Sydney, Australia.
 I currently work in cybersecurity data for the Woolworths Group.
 
 I was a software developer for 10+ years, but always did a bit of everything:
