@@ -1,5 +1,5 @@
 ### Alexander Potts
-#### <a href="https://www.ajpcloudblog.com" target="_blank">https://www.ajpcloudblog.com</a>
+#### <a href="https://ajpotts.online" target="_blank">https://ajpotts.online</a>
 <a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align: bottom;"></a><a href="https://www.twitter.com/ajpotts01"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" width="25" style="vertical-align: bottom"></a>
 
 
@@ -20,8 +20,8 @@ Even in data engineering I'm a generalist - I was a Databricks and Synapse consu
 
 My repositories are usually things I'm building while I read books or do Udemy courses, but I did do a good look into streaming data pipelines (and stringing together as many SaaS trials as possible) in a group project [here](https://github.com/ajpotts01/eventsim_streaming). 
 
-Here is what I'm currently interested in:
-- Data and analytics engineering
-- Machine learning engineering and MLOps
+I am always playing with technology. Here are the things I'm currently interested in:
+- Cloud security, SIEM/SOAR technologies and "DevSecOps"
+- Data, analytics and machine learning engineering
 - Cloud and platform engineering
 - Software engineering with Python and Go
