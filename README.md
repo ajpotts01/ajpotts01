@@ -1,6 +1,6 @@
 ### Alexander Potts
 #### <a href="https://ajpotts.online" target="_blank">https://ajpotts.online</a>
-<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align: bottom;"></a><a href="https://www.twitter.com/ajpotts01"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" width="25" style="vertical-align: bottom"></a>
+<a href="https://www.linkedin.com/in/alexander-potts-9b4a41aa"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align: bottom;"></a>
 
 
 
