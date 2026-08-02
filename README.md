@@ -4,7 +4,7 @@
 
 
 
-<a href="https://www.credly.com/badges/f7d4eae3-df3d-434a-acab-6aac29447e66/public_url"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/professional-data-engineer-certification.png" width="75"></a><a href="https://www.credly.com/badges/e582d42c-12b0-43b5-8a7f-8eed7ff57eaf/public_url"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/professional-cloud-security-engineer-certification.png" width="75"></a><a href="https://learn.microsoft.com/en-au/users/alexanderpotts-2118/credentials/2de2192c78b921a6"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/sc-500-dummy.webp" width="75"></a>
+<a href="https://www.credly.com/badges/f7d4eae3-df3d-434a-acab-6aac29447e66/public_url" target="_blank"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/professional-data-engineer-certification.png" width="75"></a><a href="https://www.credly.com/badges/e582d42c-12b0-43b5-8a7f-8eed7ff57eaf/public_url" target="_blank"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/professional-cloud-security-engineer-certification.png" width="75"></a><a href="https://learn.microsoft.com/en-au/users/alexanderpotts-2118/credentials/2de2192c78b921a6" target="_blank"><img src="https://raw.githubusercontent.com/ajpotts01/ajpotts01/main/sc-500-dummy.webp" width="75"></a>
 
 Cloud technologist, jazz guitar student, and combat sports tragic living in Sydney, Australia.
 I currently work in security engineering for TPG Telecom.
