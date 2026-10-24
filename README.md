@@ -19,6 +19,7 @@ I took a hard right turn into "modern" data engineering a little while ago, and 
 My repositories are usually things I'm building while I read books or do Udemy courses, but I did do a good look into streaming data pipelines (and stringing together as many SaaS trials as possible) in a group project [here](https://github.com/ajpotts01/eventsim_streaming). 
 
 I am always playing with technology. Here are the things I'm currently interested in:
-- Cloud security, SIEM/SOAR technologies and "DevSecOps"
+- Cloud security engineering and architecture
+- Whatever "DevSecOps" means today
 - Cloud and platform engineering
-- Software engineering with Python and Go
+- Software engineering with Python and Go - especially when it comes to both defensive and offensive security tooling
